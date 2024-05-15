@@ -1,3 +1,3 @@
-## Public-IP site
+## nslookup site
 
-This is a simple site which shows the public IP of the visitor. Sample is hosted at https://mevinod.com/pip
+nslookup site. Show IP based on domain or domain based on IP.
